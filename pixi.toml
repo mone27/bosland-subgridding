@@ -1,0 +1,18 @@
+[workspace]
+authors = ["Simone Massaro <simone.massaro@mone27.net>"]
+channels = ["conda-forge"]
+name = "Bosland_subgridding"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+polars = ">=2.1.0,<3"
+ipywidgets = ">=8.1.9,<9"
+ipykernel = ">=7.4.0,<8"
+pandas = ">=3.1.1,<4"
+pyarrow = ">=26.0.1,<27"
+plotnine = ">=0.15.9,<0.16"
+polars-ds = ">=0.14.0,<0.15"
+great_tables = ">=1.2.0,<2"
