@@ -57,6 +57,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/pycparser-3.12-pyh5ded981_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pygments-2.21.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pyparsing-3.3.3-pyh5ded981_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/pyprojroot-0.3.0-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-abi3-3.15-hf7467a1_3.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dateutil-4.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-gil-3.15.2-h4df99d1_100.conda
@@ -794,6 +795,16 @@ packages:
   run_exports: {}
   size: 114046
   timestamp: 1790063282695
+- conda: https://conda.anaconda.org/conda-forge/noarch/pyprojroot-0.3.0-pyhd8ed1ab_2.conda
+  sha256: 95d61530ec32c1d02f0b52ec1e1fe11ccf88f42ec253b711fe81ca1da2077398
+  md5: 82521d0bf643543c65190f83b6de47ff
+  depends:
+  - python >=3.9
+  license: MIT
+  license_family: MIT
+  run_exports: {}
+  size: 12934
+  timestamp: 1736249010308
 - conda: https://conda.anaconda.org/conda-forge/noarch/python-abi3-3.15-hf7467a1_3.conda
   sha256: 8cdbe57acbd65f011499da7d20a2703bcfba52100f15c78e8fc2fd7c0777558e
   md5: fbdeb5bb76c2f3e7e11ccad2cd07c40e

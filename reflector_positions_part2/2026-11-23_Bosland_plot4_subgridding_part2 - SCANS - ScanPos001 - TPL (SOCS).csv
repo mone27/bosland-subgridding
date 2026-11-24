@@ -1,0 +1,5 @@
+Name,X[m],Y[m],Z[m],ReflType,Quality [%][%],Size[m],Points
+TP_001,     9.761,    -3.859,   100.454,RIEGL cylindrical reflector 50 mm,63,     0.050,28
+TP_002,    22.998,     1.134,   100.375,RIEGL cylindrical reflector 50 mm,62,     0.050,11
+TP_003,    18.880,    -7.973,   100.477,RIEGL cylindrical reflector 50 mm,78,     0.050,9
+TP_004,    13.696,     5.152,   100.365,RIEGL cylindrical reflector 50 mm,33,     0.050,6
